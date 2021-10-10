@@ -99,3 +99,7 @@
   - PAN路径集成模块
     - 将 PAN 中的 shortcut 连接变成 concatenation 连接，
   - DioU-NMS
+
+### YOLOv5
+
+### YOLOX
